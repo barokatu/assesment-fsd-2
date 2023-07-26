@@ -1,0 +1,21 @@
+{
+  "name": "directory-listing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "Electron",
+    "Directory",
+    "Listing",
+    "Directory Listing"
+  ],
+  "author": "barokatu",
+  "license": "",
+  "devDependencies": {
+    "electron": "^13.0.0-beta.9"
+  }
+}
